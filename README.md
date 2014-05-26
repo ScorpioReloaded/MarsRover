@@ -13,17 +13,18 @@ Framework: .Net 4.0
 Language: C#
 Application Type: Console App
 Classes: 
-•	Singleton Pattern
+â€¢	Singleton Pattern
 o	Rover
 o	LandScapeGrid
-•	Command Pattern
+â€¢	Command Pattern
 o	ICommand, 
 o	CommandInvoker, 
 o	RotateRightCommand, 
 o	RotateLeftCommand, 
 o	MoveForwardCommand 
-•	Client
+â€¢	Client
 o	CommandEngine
+
 
 
 
