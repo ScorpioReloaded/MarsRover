@@ -1,0 +1,11 @@
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.exe.config
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.exe
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.pdb
+S:\Dev\Research\Projects\Rover\Rover\obj\Debug\Rover.exe
+S:\Dev\Research\Projects\Rover\Rover\obj\Debug\Rover.pdb
+C:\Sehar\Rover\Rover\Rover\bin\Debug\Rover.exe.config
+C:\Sehar\Rover\Rover\Rover\obj\Debug\Rover.exe
+C:\Sehar\Rover\Rover\Rover\obj\Debug\Rover.pdb
+C:\Sehar\Rover\Rover\Rover\bin\Debug\Rover.exe
+C:\Sehar\Rover\Rover\Rover\bin\Debug\Rover.pdb
+C:\Sehar\Rover\Rover\Rover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache

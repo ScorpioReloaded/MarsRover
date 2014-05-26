@@ -1,0 +1,6 @@
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.exe.config
+S:\Dev\Research\Projects\Rover\Rover\obj\Debug\Rover.csprojResolveAssemblyReference.cache
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.exe
+S:\Dev\Research\Projects\Rover\Rover\bin\Debug\Rover.pdb
+S:\Dev\Research\Projects\Rover\Rover\obj\Debug\Rover.exe
+S:\Dev\Research\Projects\Rover\Rover\obj\Debug\Rover.pdb
